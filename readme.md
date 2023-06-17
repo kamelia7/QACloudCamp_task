@@ -10,7 +10,7 @@
 ### Запуск
 
 1. Клонируем репозиторий:
-git clone https://github.com/kamelia7/QACloudCamp_task
+```git clone https://github.com/kamelia7/QACloudCamp_task```
 
 2. Запускаем через docker-compose из папки проекта:
-docker-compose up
+```docker-compose up```
