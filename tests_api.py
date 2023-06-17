@@ -73,5 +73,4 @@ def test_delete_post():
     test_delete_post
 ])
 def test_api_endpoints(test_function):
-    # Тестирование API-конечных точек
     test_function()
